@@ -1,0 +1,46 @@
+.main-download-container {
+    height: 375px;
+    width: 100%;
+    border-bottom: 10px solid #f8f8f8;
+}
+
+.download-container {
+
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    margin: 0 auto;
+
+    padding-top: 60px;
+}
+
+.download-section {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-bottom: 15px;
+
+}
+
+.download-section h2 {
+    color: #545454;
+    font-size: 27px;
+    font-weight: 250;
+    line-height: 37.8px;
+    text-align: center;
+}
+
+.download-text {
+    margin-bottom: 35px;
+    text-align: center;
+    margin-top: 25px;
+    color: #7b7b7b;
+}
+
+.download-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
